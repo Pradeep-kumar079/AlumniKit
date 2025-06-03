@@ -719,7 +719,7 @@
     padding: 12px;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
   }
   .menu li a{

@@ -567,6 +567,10 @@
 @media screen and (max-width: 600px) {
   
  
+  #search-results {
+   padding-top: 10px;
+    margin-left: -177px;
+}
   .alldatacontainer{
     display: flex;
     flex-direction: column-reverse;
